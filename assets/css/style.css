@@ -1,3 +1,15 @@
+.navbar {
+    background-color: rgb(10.6%, 12.2%, 19.8%);
+}
+
+.page-logo-title {
+    width: 150px;
+}
+
+.page-logo {
+    width: 85px;
+}
+
 body {
     background: black;
     background-image: url("../img/titan2.jpg");
@@ -25,6 +37,7 @@ body {
     align-content: center;
 }
 
-.intro{
+.intro {
     color: white;
+    font-family: 'Merriweather', serif;
 }
