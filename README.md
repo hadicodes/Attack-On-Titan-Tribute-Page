@@ -1,2 +1,2 @@
-# Tribute-Page-
-A Tribute page website dedicated to the great Anthony Robbins
+# Tribute-Page
+A Tribute page website dedicated to the anime "Attack on Titan"
