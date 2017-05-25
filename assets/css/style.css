@@ -5,7 +5,10 @@ body {
 
 .main-container {
     background: rgb(4.7%, 5.8%, 11.2%);
-    border: 1px solid red;
+    border: 1px solid;
+    border-radius: 10px;
+     box-shadow:  0 0 8px #d40035;
+    /* right cyan */
     opacity: 0.9;
     background: #000000;
     height: auto;
