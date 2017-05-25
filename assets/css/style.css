@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgb(10.6%, 12.2%, 19.8%);
+    background-color: #080611;
 }
 
 .page-logo-title {
@@ -34,7 +34,18 @@ body {
     align-content: center;
 }
 
-.intro {
+.intro-head {
     color: white;
-    font-family: 'Merriweather', serif;
+    font-family: 'Luckiest Guy', cursive;
+    margin-top: 25px;
+}
+
+.intro-head h3 {
+    font-size: 40px;
+    margin-top: 25px;
+}
+
+.intro-head p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
 }
