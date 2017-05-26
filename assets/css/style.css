@@ -6,7 +6,6 @@
     width: 150px;
 }
 
-
 body {
     background: black;
     background-image: url("../img/titan2.jpg");
@@ -40,7 +39,6 @@ body {
     margin-top: 25px;
 }
 
-
 .intro-head h3 {
     font-size: 40px;
     margin-top: 25px;
@@ -54,7 +52,8 @@ body {
 
 .article-left {
     color: white;
-
+    float: left;
+    margin-top: 34px;
 }
 
 #learn-more {
