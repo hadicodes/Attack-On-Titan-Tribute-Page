@@ -40,12 +40,23 @@ body {
     margin-top: 25px;
 }
 
+
 .intro-head h3 {
     font-size: 40px;
     margin-top: 25px;
+    text-align: center;
 }
 
 .intro-head p {
     font-family: 'Open Sans', sans-serif;
     color: white;
+}
+
+.article-left {
+    color: white;
+
+}
+
+#learn-more {
+    font-family: 'Luckiest Guy', cursive;
 }
