@@ -7,6 +7,6 @@ It's a terrific show that will make you laugh, cry, stnd up and shout, and every
 
 See Live Demo here: https://attack-on-titan-tribute.herokuapp.com/
 
-![alt tag](assets/img.ss.png)
+![alt tag](assets/img/ss.png)
 
 
